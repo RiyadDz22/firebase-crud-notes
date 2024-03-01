@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574226202093",
+    "project_id": "notes-a0987",
+    "storage_bucket": "notes-a0987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574226202093:android:cdf481b9c863b9ae463be4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrbyu2Z7OgALDJTma0I_9JLFbnjPc9n34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
